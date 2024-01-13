@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Olá meu nome é Gabriel Monteiro, sou estudante de programação e muito curioso sobre a área.
 <!--
 **Gamoar/Gamoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
